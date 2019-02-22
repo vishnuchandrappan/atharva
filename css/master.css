@@ -1,0 +1,15 @@
+.pgm-card{
+  border: solid 2px;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+.pgm-card img{
+  width: 280px;
+  height: 180px;
+  border-radius: 5px !important;
+}
+.pgm-card h3{
+  transition:1s;
+}
